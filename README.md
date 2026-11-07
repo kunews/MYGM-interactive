@@ -1,6 +1,6 @@
 # 고대신문 창간 79주년 문예공모 — 인터랙티브 기사
 
-배포 주소: https://cheez-burger.github.io/MYGM-interactive/
+배포 주소: https://kunews.github.io/MYGM-interactive/
 
 고대신문 2051호(2026년 11월 2일자)에 수록된 문예공모 당선작 네 편을 이미지와 소리와 함께 읽는 정적 사이트입니다.
 
